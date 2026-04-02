@@ -6,6 +6,4 @@ This organization is a small experimental space for various projects related to 
 
 > 🧪 Things here may be unstable, unfinished, or just for fun.
 
-## 🌟 About
-
-PawLaboratory is driven by curiosity, creativity, and a bit of chaos.
+🌟 _PawLaboratory is driven by curiosity, creativity, and a bit of chaos._
