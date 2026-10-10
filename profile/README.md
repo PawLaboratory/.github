@@ -1,6 +1,6 @@
 ## 🐾 Hi There 
 
-<img width="560" height="160" alt="Logo" src="https://github.com/user-attachments/assets/43235a19-905b-4d78-8ee9-9589cb213a15" />
+<img width="560" height="160" alt="Logo" src="Logo.png" />
 
 Welcome to **PawLaboratory** (A.K.A PawLab).
 
